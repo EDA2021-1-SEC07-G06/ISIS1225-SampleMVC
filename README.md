@@ -6,6 +6,7 @@ a.melo4@uniandes.edu.co
 
 Obed Cabanzo
 jo.cabanzo@uniandes.edu.co
+201911749
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
